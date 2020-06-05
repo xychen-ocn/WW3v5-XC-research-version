@@ -18,7 +18,7 @@ II. **_inp_** folder contains the ww3_grid.inp, ww3_shel.inp which are required 
 
 ### 3. How to use the source code posted here
 
-Download WAVEWATCH III (v5.16) first, then replace the official **_ftn**_ with the source code package here for code compilation. 
+Download WAVEWATCH III (v5.16) first, then replace the official **_ftn_** with the source code package here for code compilation. 
  
 
  
