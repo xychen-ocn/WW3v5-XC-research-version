@@ -11,10 +11,10 @@ Data in the following two publications are generated with the code uploaded here
  _2. Chen, X., I. Ginis, and T. Hara, 2020. Impact of Shoaling Ocean Surface Waves on Wind Stress and Drag Coefficient in Coastal Waters: Part II Tropical Cyclones. J. Geophys. Res., In press._
  
 #### 2. Folders in this Repository 
-1 **_ftn_** folder contains the modified WW3v5 code used in the above research. Main changes are made to w3fld1md.ftn, w3fld2md.ftn; other files have only been modified to assist output extra User-defined quantities (flags) associated with the diagnostic flux. 
+I. **_ftn_** folder contains the modified WW3v5 code used in the above research. Main changes are made to w3fld1md.ftn, w3fld2md.ftn; other files have only been modified to assist output extra User-defined quantities (flags) associated with the diagnostic flux. 
  
 
-2 **_inp_** folder contains the ww3_grid.inp, ww3_shel.inp which are required to be modified to be used properly by the modified version of the WaveWatch code. Details of the modifications can be find therein.
+II. **_inp_** folder contains the ww3_grid.inp, ww3_shel.inp which are required to be modified to be used properly by the modified version of the WaveWatch code. Details of the modifications can be find therein.
  
 
  
