@@ -1,0 +1,2 @@
+Date: May 7, 2018
+Note: modified w3srcemd.ftn to introduced options to replace FPI with FMEAN. (added flag: FPI_FLG to the FLD namelist.)
