@@ -8,6 +8,7 @@ modified for the use in shallower water.
 
 Data in the following two publications are generated with the code uploaded here.
 [_1. Chen, X., T. Hara, and I. Ginis, 2020. Impact of Shoaling Ocean Surface Waves on Wind Stress and Drag Coefficient in Coastal Waters: Part I Uniform Wind. J. Geophys. Res._][paper1]
+
  [_2. Chen, X., I. Ginis, and T. Hara, 2020. Impact of Shoaling Ocean Surface Waves on Wind Stress and Drag Coefficient in Coastal Waters: Part II Tropical Cyclones. J. Geophys. Res._][paper2]
  
 ### 2. Folders in this Repository 
